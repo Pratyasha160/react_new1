@@ -1,0 +1,25 @@
+{
+  "name": "react_new",
+  "version": "1.0.0",
+  "description": "this is react tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratyasha160/react_new.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "pratyasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratyasha160/react_new/issues"
+  },
+  "homepage": "https://github.com/Pratyasha160/react_new#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
